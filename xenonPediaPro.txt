@@ -1,5 +1,5 @@
-This smartphone has more feature than previous one its specification are:
-RAM : 6gb
-Processor : Mediatech G95
-Battery : 5000mah
-Screen : 6inch
+This smartphone is cool and have more gaming features than previous version:
+RAM : 12gb
+Processor : snapdragon 985
+Battery : 6000mah
+Screen : 8inch
