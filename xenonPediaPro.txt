@@ -1,0 +1,5 @@
+This smartphone has more feature than previous one its specification are:
+RAM : 6gb
+Processor : Mediatech G95
+Battery : 5000mah
+Screen : 6inch
